@@ -2,7 +2,7 @@ HW1/pyndri/
 HW2/trec_eval/
 HW2/index/
 HW2/ap_88_89/
-HW2/.ipynb_checkpoints/
+HW2/.ipynb_checkpoints/.*
 reduced_vectors_google.txt
 HW2/example.*
 HW2/inspecting_pyndri.py
