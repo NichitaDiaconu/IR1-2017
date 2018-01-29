@@ -7,5 +7,5 @@ reduced_vectors_google.txt
 HW2/example.*
 HW2/inspecting_pyndri.py
 HW2/.ipynb_*
-*.run
 *.idea*
+HW2/.assignment*
